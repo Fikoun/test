@@ -36,7 +36,7 @@ $rows = explode("\n", $celySoubor);
 
 <style>
     body {
-        background-color: #f9f9e4;
+        background-color: white;
     }
     table {
        border-collapse: collapse;
@@ -48,7 +48,7 @@ $rows = explode("\n", $celySoubor);
     th {
         font-size: 19px;
         padding: 10px 25px;
-        color: red;
+        color: green;
     }
 
 
