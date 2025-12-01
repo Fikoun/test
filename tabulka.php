@@ -36,8 +36,8 @@ $rows = explode("\n", $celySoubor);
 
 <style>
     body {
-        background-color: black;
-        color: white;
+        background-color: green;
+        color: red;
     }
     table {
        border-collapse: collapse;
@@ -49,11 +49,11 @@ $rows = explode("\n", $celySoubor);
     th {
         font-size: 29px;
         padding: 10px 25px;
-        color: green;
+        color: red;
     }
 
 
     tr:nth-child(odd) {
-        background: lightgray;
+        background: green;
     }
 </style>
