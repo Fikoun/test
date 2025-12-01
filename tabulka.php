@@ -36,7 +36,8 @@ $rows = explode("\n", $celySoubor);
 
 <style>
     body {
-        background-color: white;
+        background-color: black;
+        color: white;
     }
     table {
        border-collapse: collapse;
