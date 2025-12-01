@@ -35,10 +35,24 @@ $rows = explode("\n", $celySoubor);
 </table>
 
 <style>
+    body {
+        background-color: #f9f9e4;
+    }
     table {
-       border-collapse: collapse;¨
+       border-collapse: collapse;
     }
     td {
         padding: 5px 15px; 
+    }
+    
+    th {
+        font-size: 19px;
+        padding: 10px 25px;
+        color: red;
+    }
+
+
+    tr:nth-child(odd) {
+        background: lightgray;
     }
 </style>
