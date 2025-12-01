@@ -47,7 +47,7 @@ $rows = explode("\n", $celySoubor);
     }
     
     th {
-        font-size: 19px;
+        font-size: 29px;
         padding: 10px 25px;
         color: green;
     }
